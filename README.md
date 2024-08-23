@@ -13,16 +13,6 @@ This App equal to the R Function App Template and is used to go through the App 
 #### Generality of App usability
 *State here if the App was developed for a specific species, taxon or taxonomic group, or to answer a specific question. How might it influence the scope and utility of the App. This information will help the user to understand why the App might be producing no or odd results.*
 
-*Examples:*
-
-This App was developed using data of birds. 
-
-This App was developed using data of red deer. 
-
-This App was developed for any taxonomic group. 
-
-This App was developed to identify kill sites, but can probably be used to identify any kind of location clusters like nests, dens or drinking holes.
-
 #### Required data properties
 *State here the required and/or optimal data properties for this App to perform properly.*
 
